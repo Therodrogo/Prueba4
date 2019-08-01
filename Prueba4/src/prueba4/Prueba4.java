@@ -5,6 +5,10 @@
  */
 package prueba4;
 
+/**
+ *
+ * hola que hace
+ */
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
