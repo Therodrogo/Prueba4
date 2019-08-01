@@ -2,7 +2,7 @@ package Clases;
 
 /**
  *
- * @author Rodrigo
+ * @author Rodrigo The best
  */
 public class Ficha {
     
