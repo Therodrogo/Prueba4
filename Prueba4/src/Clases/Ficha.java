@@ -2,7 +2,7 @@ package Clases;
 
 /**
  *
- * @author Rodrigo The best
+ * @author Therodrogo Thecarloito Dawnrice
  */
 public class Ficha {
     
